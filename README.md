@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="https://i.imgur.com/o558Qnq.png" align="center">
   <br>
   <strong><i>A simple and functional Modmail bot for Discord.</i></strong>
   <br>
@@ -48,4 +47,3 @@ Thread conversations are automatically logged with a generated viewable website 
 
 This project is licenced under MIT. If you have any new ideas, create an issue or a pull request. Contributions to Modmail are always welcome, whether it be improvements to the documentation or new functionality, please feel free make the change.
 
-If you use Modmail and love it, consider supporting me on **[Patreon](https://www.patreon.com/kyber)** :heart:
